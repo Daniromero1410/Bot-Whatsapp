@@ -1,0 +1,8 @@
+Numero de Prueba: +1 555 165 3356
+Identificador de Numero de telefono: 773269515861620
+Identificador de la cuenta de WhatsApp: 24241763835515100
+Identificador de la app: 745723804837243
+token de acceso: EAAKmO1p85XsBPIdK8iwNoCVOC4NBDUhZAfZBtiHaXHpZBmK405nskf1ZBjT7k5TlbbRJj5YOdf0eXK7xhMHqTKN3lCtcjrMdSXglGl33ZAjeUurGThVqhO7nBcbCuXvg3ydNEdXl01NCefSnt86ZBw2E3EPQoYpUZBLbwoImTnZABpoYeZA2pPw7khcmZBlSOG4mjbfH2Xa26lmvtPjq5uPrZA431eipZC2wY6CbzZAeDFs2rfYOSV8NGZAgZDZD
+Version de la API: 
+
+indices: WABA_TOKEN, WABA_PHONE_IP, WABA_API_VERSION, VERIFY_TOKEN.
